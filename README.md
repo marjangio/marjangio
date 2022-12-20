@@ -12,10 +12,7 @@
 <br />
 <!--  <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdou240" alt="abdou240" /> </p> -->
 <!-- [![Abdou's github stats](https://github-readme-stats.vercel.app/api?username=abdou240&hide=stars,issues&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/zahraboukthir/github-readme-stats) <br /> -->
-<p align="center"> 
-  You are visitor number: <br>
-  <img src="https://profile-counter.glitch.me/marjangio/count.svg" />
-</p>
+
 <!---
 marjangio/marjangio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
