@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ marjangio
 - 👀 I’m  Junior Data Scientist
 - I'm on track for learning more about Python, SQL and Machine learning.
-- 💞️ I’m looking to collaborate on learning and mini projects
+- 💞️ I’m looking to collaborate on learning and projects
 - 📫 How to reach me ?  message
 - ###  Skills :muscle:
 <!-- <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> 
